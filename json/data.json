@@ -1,33 +1,33 @@
 [{
-    "text": "This is the first question",
-    "options": ["1st answer 1", "1st answer 2", "1st answer 3", "1st answer 4"],
-    "answer": 2
-}, {
-    "text": "This is the second question",
-    "options": ["2nd answer 1", "2nd answer 2", "2nd answer 3", "2nd answer 4"],
+    "text": "Why so JavaScript and Java have similar name?",
+    "options": ["JavaScript is a stripped-down version of Java", "JavaScript's syntax is loosely based on Java's", "They both originated on the island of Java", "None of the above"],
     "answer": 1
 }, {
-    "text": "This is the third question",
-    "options": ["3rd answer 1", "3rd answer 2", "3rd answer 3", "3rd answer 4"],
-    "answer": 3
-}, {
-    "text": "This is the fourth question",
-    "options": ["4th answer 1", "4th answer 2", "4th answer 3", "4th answer 4"],
+    "text": "What are variables used for in JavaScript Programs?",
+    "options": ["Storing numbers, dates, or other values", "Varying randomly", "Causing high-school algebra flashbacks", "None of the above"],
     "answer": 0
 }, {
-    "text": "This is the fifth question",
-    "options": ["5th answer 1", "5th answer 2", "5th answer 3", "5th answer 4"],
-    "answer": 0
-}, {
-    "text": "This is the sixth question",
-    "options": ["6th answer 1", "6th answer 2", "6th answer 3", "6th answer 4"],
-    "answer": 3
-}, {
-    "text": "This is the seventh question",
-    "options": ["7th answer 1", "7th answer 2", "7th answer 3", "7th answer 4"],
-    "answer": 3
-}, {
-    "text": "This is the eighth question",
-    "options": ["8th answer 1", "8th answer 2", "8th answer 3", "8th answer 4"],
+    "text": "Which of the following are capabilities of functions in JavaScript?",
+    "options": ["Return a value", "Accept parameters and Return a value", "Accept parameterss", "None of the above"],
     "answer": 2
+}, {
+    "text": "Choose the server-side JavaScript object?",
+    "options": ["FileUpLoad", "Function", "File", "Date"],
+    "answer": 2
+}, {
+    "text": "Choose the client-side JavaScript object?",
+    "options": ["Database", "Cursor", "Client", "FileUpLoad"],
+    "answer": 3
+}, {
+    "text": "Which of the following is not considered a JavaScript operator?",
+    "options": ["new", "this", "delete", "typeof"],
+    "answer": 1
+}, {
+    "text": "JavaScript is interpreted by _________",
+    "options": ["Client", "Server", "Object", "None of the above"],
+    "answer": 0
+}, {
+    "text": "Using _______ statement is how you test for a specific condition.",
+    "options": ["Select", "If", "Switch", "For"],
+    "answer": 1
 }]
